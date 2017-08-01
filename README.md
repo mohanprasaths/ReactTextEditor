@@ -1,1 +1,1 @@
-An Text editor with Reaact , summernote.js
+A Text editor with React , summernote.js
